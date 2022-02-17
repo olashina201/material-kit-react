@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { useState } from 'react';
 import PropTypes from 'prop-types';
 import { Icon } from '@iconify/react';
